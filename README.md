@@ -1,5 +1,5 @@
 # vivado-example-project
-This repository serves as a project skeleton for Vivado projects. The project structure is designed to satisfy the following two requirments:
+This repository serves as a project skeleton for Vivado projects. The project structure is designed to satisfy the following two requirements:
 - It is possible to write VHDL code in a team
 - Works well with Git (or any other version control tool)
 
